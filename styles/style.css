@@ -214,7 +214,7 @@ a {
 	width: 19ch;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 1.5s steps(120, end), blink-caret .4s step-end infinite alternate;
+	-webkit-animation: typing 1.5s steps(120), blink-caret .4s step-end infinite alternate;
 }
 
 .p {
