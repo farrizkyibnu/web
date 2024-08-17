@@ -124,7 +124,7 @@
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 360px) {
     /* Titles */
     .section-title {
         font-size: 1.3rem
