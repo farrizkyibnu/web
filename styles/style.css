@@ -308,6 +308,18 @@ a {
     cursor: pointer;
 }
 
+.portfolio-title a img {
+    margin-right: -1rem;
+}
+
+.portfolio-title a img:hover {
+    box-shadow: rgba(255, 214, 144) 0px 1px 14px;
+    background-color: none;
+    color: white;
+    border-radius: 99px;
+    transition: 0.3s;
+}
+
 .portfolio h3 {
     font-weight: 600;
 }
