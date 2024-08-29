@@ -282,6 +282,11 @@ a {
     animation: fadeInContainer 3s;
     animation-timeline: view();
     animation-range: entry 0% cover 60%;
+    transition: 0.5s;
+}
+
+.portfolio:hover {
+    transform: translateY(-20px);
 }
 
 @keyframes fadeInContainer {
